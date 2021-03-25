@@ -1,0 +1,45 @@
+body {
+    font-family:'Dela Gothic One', 'Roboto Mono',monospace;
+    text-align:center;
+    background-color: #7A9244;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  h2 {
+    color:#C5EE7D;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+  
+  
+  
+  body > a > img {
+    margin: 0 10px;
+  }
+  
+  
+  
+  
